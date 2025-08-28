@@ -12,7 +12,7 @@ OpenIsle 是一个使用 Spring Boot 和 Vue 3 构建的全栈开源社区平台
 
 ## 🚧 开发 & 部署
 
-详细见 [Contributing](https://github.com/nagisa77/OpenIsle?tab=contributing-ov-file)
+详细见 [Contributing](https://github.com/jp0id/OpenIsle?tab=contributing-ov-file)
 
 ## ✨ 项目特点
 
